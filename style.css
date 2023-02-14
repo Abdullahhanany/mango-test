@@ -260,7 +260,7 @@ justify-content: space-between;
 
 @media (max-width:641px){
     body{
-     font-size: 12px;
+    font-size: 12px;
     }
     .main-content h2{
         font-size: 0.8em;
